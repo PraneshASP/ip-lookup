@@ -1,0 +1,15 @@
+{
+  "name": "ip-info",
+  "version": "1.0.0",
+  "description": "This service is used to extract details from the request IP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranesh A S",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "geoip-lite": "^1.4.2"
+  }
+}
